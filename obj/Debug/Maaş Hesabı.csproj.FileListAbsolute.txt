@@ -1,0 +1,16 @@
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\bin\Debug\Maaş Hesabı.exe.config
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\bin\Debug\Maaş Hesabı.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\bin\Debug\Maaş Hesabı.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\bin\Debug\Maaş Hesabı.exe.config
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\bin\Debug\Maaş Hesabı.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\bin\Debug\Maaş Hesabı.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\Backend\C#\Maaş Hesabı\obj\Debug\Maaş Hesabı.pdb
